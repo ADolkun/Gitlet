@@ -1,0 +1,6 @@
+# A simple test that checks the basic functions of add.
+> init
+<<<
++ f.txt wug.txt
+> add f.txt
+<<<

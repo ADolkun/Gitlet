@@ -1,0 +1,20 @@
+# A simple test that checks the basic functions of add and status.
+> init
+<<<
++ f.txt wug.txt
+> add f.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
